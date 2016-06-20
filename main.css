@@ -1,0 +1,30 @@
+body {
+    background: linear-gradient(90deg, #963779, #C8BE47);
+}
+
+#main-div {
+    background-color: rgba(0, 0, 0, 0.44);
+    width:500px;
+    height:100vh;
+    margin: 0 auto;
+}
+
+h1, h5 {
+    color: lightgray;
+    margin: 0 auto;
+    text-align: center;
+}
+
+h5 {
+
+}
+
+#image-2 {
+    border-radius: 58%;
+    width: 300px;
+    margin-left: 6em;
+}
+
+.header {
+    font-size: 50px;
+}
